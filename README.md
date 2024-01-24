@@ -1,2 +1,3 @@
 # Bonzai
-Stress Relief website made using HTML, CSS, Javascript
+
+A website to help students cope with stress. Programmed in HTML, CSS, and Javascript.
